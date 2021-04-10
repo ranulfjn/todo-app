@@ -9,6 +9,12 @@
 * React Js
 * Material UI
 
+
 ![Todo](https://user-images.githubusercontent.com/69053657/114255119-591f8180-9981-11eb-9610-5fd43d8c65c8.gif)
+
+#### To run this app
+* cd [folder]
+* npm start
+
 
 
